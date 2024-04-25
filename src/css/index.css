@@ -1,0 +1,10 @@
+body{
+  background: #141414;
+  color: white;
+}
+.text-gris-claro {
+  color: #999; 
+}
+.input-con-placeholder::placeholder {
+  color: #aaa; /* Un tono de gris claro como ejemplo */
+}
